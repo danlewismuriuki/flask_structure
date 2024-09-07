@@ -5,4 +5,4 @@ main = Blueprint('main', __name__)
 
 @main.route('/')
 def main_index():
-    return 'Blueprint Hello!'
+    return 'Blueprint views.py Hello!'

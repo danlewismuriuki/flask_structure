@@ -1,2 +1,3 @@
 env/
 flask_structure/__pycache__
+flask_structure/.env
